@@ -1,0 +1,10 @@
+This code is built as part of a course assignment. It is developed and tested using Xcelium. 
+Source appropriate files based on teh tool you are using 
+for eg.
+source /vol/cadence2018/XCELIUM1809/tools/xcelium/files/xmsimrc
+
+Use the following script to run the test using given library
+./run_alu.sh
+
+Use simvision to view the checked in waveform,
+simvision ALU_design/waves.shm/waves.trn &
