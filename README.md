@@ -13,9 +13,9 @@ Use simvision to view the checked in waveform,
 simvision ALU_design/waves.shm/waves.trn &
 
 ALU Functional Specification :
- Inputs: 2 x 32-bit operands A, B, 4-bit control signal
- Outputs: 32-bit result S, 1-bit carry_out, 1 bit overflow , 1-bit zero
- Operations :
-o arithmetic: add, sub
-o logical: and, xor, or, sll, srl
-o conditional: slt, sltu
+* Inputs: 2 x 32-bit operands A, B, 4-bit control signal
+* Outputs: 32-bit result S, 1-bit carry_out, 1 bit overflow , 1-bit zero
+* Operations :
+  o arithmetic: add, sub
+  o logical: and, xor, or, sll, srl
+  o conditional: slt, sltu
