@@ -2,7 +2,7 @@
 CE-361 :: Computer Architecture Project 
 
 This code is built as part of a course assignment. It is developed and tested using Xcelium. 
-Source appropriate files based on teh tool you are using 
+Source appropriate files based on the tool you are using 
 for eg.
 source /vol/cadence2018/XCELIUM1809/tools/xcelium/files/xmsimrc
 
